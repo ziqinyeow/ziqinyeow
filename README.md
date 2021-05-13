@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m Yeow Zi Qin
 
-<img height="10vh" src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png?raw=true" />
+<img height="10vh" width="100%" src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png?raw=true" />
 
 ##Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
