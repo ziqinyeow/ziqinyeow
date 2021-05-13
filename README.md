@@ -1,5 +1,6 @@
-# 👋 Hi, I’m @ziqinyeow
->Failing to prepare is preparing to fail
+# 👋 Hi there, I’m Yeow Zi Qin
+
+##Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 ### I'm currently taking Bachelor of Computer Science(Artificial Intelligence) in University of Malaya, Malaysia
 
