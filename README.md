@@ -8,13 +8,17 @@
 I'm Yeow Zi Qin, a 1st year CS student majoring AI in University of Malaya, Malaysia. Currently working on several React application projects. Skilled in <strong>React JS, Node JS, MongoDB, HTML, CSS, Java</strong>. 
 
 <br>
-### Bio
-<ul> 🙄 I’m interested in machine learning and web development </ul>
-<ul> 🏁 I’m currently learning Three JS and Python - Machine Learning</ul>
-<ul> 😏 I’m looking to collaborate on fun and cool projects </ul>
-<ul> 📫 Start a conversation by emailing <a href="mailto:ziqinyeow@gmail.com">me</a> </ul>
-<ul> ⚡ Fun Fact: My first line of code is <code>System.out.println("I love you!")</code></ul>
 
+### Bio
+
+<br>
+<ul>
+<li> 🙄 I’m interested in machine learning and web development </li>
+<li> 🏁 I’m currently learning Three JS and Python - Machine Learning</li>
+<li> 😏 I’m looking to collaborate on fun and cool projects </li>
+<li> 📫 Start a conversation by emailing <a href="mailto:ziqinyeow@gmail.com">me</a> </li>
+<li> ⚡ Fun Fact: My first line of code is <code>System.out.println("I love you!")</code></li>
+</ul>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ziqinyeow&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!-- <div style="display=flex">
