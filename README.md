@@ -1,8 +1,9 @@
 # 👋 Hi there, I’m Yeow Zi Qin
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 <img height="180rem" width="100%" src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png?raw=true" />
 
-##Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+## Glad to see you here! 
 
 ### I'm currently taking Bachelor of Computer Science(Artificial Intelligence) in University of Malaya, Malaysia
 
