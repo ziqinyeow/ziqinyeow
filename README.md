@@ -15,7 +15,7 @@ I'm Yeow Zi Qin, a 1st year CS student majoring AI in University of Malaya, Mala
 <li> 🏁 I’m currently learning Three JS and Python - Machine Learning</li>
 <li> 😏 I’m looking to collaborate on fun and cool projects </li>
 <li> 📫 Start a conversation by emailing <a href="mailto:ziqinyeow@gmail.com">me</a> </li>
-<li> ⚡ Fun Fact: My first line of code is <code>System.out.println("I love you!")</code></li>
+<li> ⚡ Fun Fact: My first line of code is <code>System.out.println("I love you!");</code></li>
 </ul>
 <br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ziqinyeow&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
