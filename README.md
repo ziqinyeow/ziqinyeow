@@ -12,7 +12,7 @@ I'm Yeow Zi Qin, a 1st year CS student majoring AI in University of Malaya, Mala
 
 <ul>
 <li> 🙄 I’m interested in machine learning and web development </li>
-<li> 🏁 I’m currently learning Three JS and Python - Machine Learning</li>
+<li> 🏁 Currently merging Three JS and Python - Machine Learning into my hobby repository</li>
 <li> 😏 I’m looking to collaborate on fun and cool projects </li>
 <li> 📫 Start a conversation by emailing <a href="mailto:ziqinyeow@gmail.com">me</a> </li>
 <li> ⚡ Fun Fact: My first line of code is <code>System.out.println("I love you!");</code></li>
