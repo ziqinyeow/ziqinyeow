@@ -1,7 +1,7 @@
-<img height="180rem" width="100%" src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png?raw=true" />
+<!-- <img height="180rem" width="100%" src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png?raw=true" /> -->
 
 ### Hi there 👋 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) -->
 
 ### Glad to see you here! 
 
