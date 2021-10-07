@@ -18,10 +18,10 @@ I'm Yeow Zi Qin, a 1st year CS student majoring AI in University of Malaya, Mala
 <li> ⚡ Fun Fact: My first line of code is <code>System.out.println("I love you!");</code></li>
 </ul>
 <br>
+
+
+<div style="display=flex">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ziqinyeow&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <a href="https://app.daily.dev/ziq"><img src="https://api.daily.dev/devcards/aa7d7c9eb58d4daa826eb196dd27538e.png?r=s4e" width="400" alt="Yeow Zi Qin's Dev Card"/></a>
-<!-- <div style="display=flex">
-<img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziqinyeow&layout=compact" />
 </div>
-->
 
