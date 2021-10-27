@@ -5,7 +5,7 @@
 
 ### Glad to see you here! 
 
-I'm Yeow Zi Qin, a 1st year CS student majoring AI in University of Malaya, Malaysia. Currently working on several React application projects. Skilled in <strong>React JS, Node JS, Express JS, MongoDB, Firebase, HTML, CSS, Java</strong>. 
+I'm Yeow Zi Qin, a 2st year CS student majoring AI in University of Malaya, Malaysia. Currently working on several Next JS application projects. Skilled in <strong>React JS, Node JS, Express JS, MongoDB, Firebase, HTML, CSS, Java</strong>. 
 
 
 ### Bio
@@ -15,7 +15,6 @@ I'm Yeow Zi Qin, a 1st year CS student majoring AI in University of Malaya, Mala
 <li> 🏁 Currently merging Three JS and Python - Machine Learning into my hobby repository</li>
 <li> 😏 I’m looking to collaborate on fun and cool projects </li>
 <li> 📫 Start a conversation by emailing <a href="mailto:ziqinyeow@gmail.com">me</a> </li>
-<li> ⚡ Fun Fact: My first line of code is <code>System.out.println("I love you!");</code></li>
 </ul>
 <br>
 <!-- 
