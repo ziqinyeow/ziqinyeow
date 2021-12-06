@@ -24,3 +24,4 @@ I'm Yeow Zi Qin, a 2st year CS student majoring AI in University of Malaya, Mala
 <a href="https://app.daily.dev/ziq"><img src="https://api.daily.dev/devcards/aa7d7c9eb58d4daa826eb196dd27538e.png?r=s4e" width="400" alt="Yeow Zi Qin's Dev Card"/></a>
 </div> -->
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziqinyeow&langs_count=8&layout=compact&theme=dracula&hide_border=true)
