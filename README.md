@@ -5,13 +5,13 @@
 
 ### Glad to see you here! 
 
-I'm Yeow Zi Qin, a 3rd year CS student majoring AI in University of Malaya, Malaysia. Currently working on several Next JS application projects. Skilled in <strong>Python, Typescript, Javascript, Next JS, React JS, Node JS, Express JS, MySQL, PostgreSQL, Firebase, HTML, CSS, Java</strong>. 
+I'm Yeow Zi Qin, a 3rd year CS student majoring in AI at the University of Malaya, Malaysia. Currently working on several Next JS application projects. Skilled in <strong>Python, Typescript, Javascript, Next JS, React JS, Node JS, Express JS, MySQL, PostgreSQL, Firebase, HTML, CSS, Java</strong>. 
 
 ### Love to
 
-1. Streamline, orchestrate and optimise processes
-2. Write code - still need more practice to write readable code
-3. Learn - especially tech stuffs
+1. Streamline, orchestrate, and optimize processes
+2. Write maintainable code
+3. Learn - especially tech stuff
 
 ### Bio
 
