@@ -1,4 +1,4 @@
-<!-- <img height="180rem" width="100%" src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png?raw=true" /> -->
+<img height="180rem" width="100%" src="https://github.com/ziqinyeow/ziqinyeow/blob/main/header.png?raw=true" />
 
 ### Hi there 👋 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) -->
