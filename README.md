@@ -28,3 +28,11 @@ I'm Yeow Zi Qin, a final year CS student majoring in AI at the University of Mal
 <li> 📫 Start a conversation by emailing <a href="mailto:ziqinyeow@gmail.com">me</a> </li>
 </ul>
 <br>
+
+### Development Time
+<!--START_SECTION:waka-->
+
+```txt
+```
+
+<!--END_SECTION:waka-->
