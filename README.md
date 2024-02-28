@@ -33,9 +33,11 @@ I'm Yeow Zi Qin, a final year CS student majoring in AI at the University of Mal
 <!--START_SECTION:waka-->
 
 ```txt
-INI    0 secs          ███████████░░░░░░░░░░░░░░   43.98 %
-YAML   0 secs          █████████▓░░░░░░░░░░░░░░░   38.70 %
-Go     0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   17.32 %
+TypeScript        2 hrs 15 mins   █████████████░░░░░░░░░░░░   51.93 %
+Go                1 hr 32 mins    █████████░░░░░░░░░░░░░░░░   35.62 %
+YAML              12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
+JavaScript        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+Markdown          5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
 ```
 
 <!--END_SECTION:waka-->
