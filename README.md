@@ -5,7 +5,11 @@
 
 ### Glad to see you here! 
 
-I'm Yeow Zi Qin, a final year CS student majoring in AI at the University of Malaya, Malaysia. Skilled in <strong>Docker, Python, Typescript, Javascript, Next JS, React JS, Node JS, Express JS, MySQL, PostgreSQL, Firebase, HTML, CSS, Java</strong>. 
+### Intro
+
+1. Graduated as Bachelor Of Computer Science (Artificial Intelligence) @ University Of Malaya.
+2. Engineering @ Grab
+3. Incoming Master's @ <--->
 
 ### Recent Focus
 
@@ -29,7 +33,7 @@ I'm Yeow Zi Qin, a final year CS student majoring in AI at the University of Mal
 </ul>
 <br>
 
-### Development Time
+### Development Time Yesterday
 <!--START_SECTION:waka-->
 
 ```txt
