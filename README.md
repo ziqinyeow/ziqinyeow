@@ -33,7 +33,7 @@
 </ul>
 <br>
 
-### Development Time Yesterday
+### Development Time Last 7 Days
 <!--START_SECTION:waka-->
 
 ```txt
