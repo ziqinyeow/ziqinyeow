@@ -17,6 +17,7 @@ I graduated as a CS(AI) Undergrad at the [University Of Malaya](https://www.um.e
 - Containerization: Kubernetes, Docker
 - Queue: RabbitMQ, MQTT, SQS
 - Cloud: AWS
+- Automation: GitHub Actions
 
 ### Recent Focus - 7 Days
 <!--START_SECTION:waka-->
