@@ -5,7 +5,7 @@
 
 I graduated as a CS(AI) Undergrad @ the [University Of Malaya](https://www.um.edu.my/) in Feb 2024; since then, I have worked as a Software Engineer @ [Grab](https://www.grab.com/my/). I built up my skills throughout my undergraduate years, interned at [Tapway](https://gotapway.com/), and won various public hackathons. I specialised in styling with CSS, deploying ML models directly on the edge, and rapid prototyping.
 
-### Tech
+### I am proficient with
 
 - Lang: Python, Typescript, Go, Bash, Javascript, Java
 - Frontend Framework: Next.js, React.js, Three.js,
