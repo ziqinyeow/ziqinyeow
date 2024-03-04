@@ -1,37 +1,22 @@
 <img height="180rem" width="100%" src="https://github.com/ziqinyeow/ziqinyeow/blob/main/header.png?raw=true" />
 
-### Hi there 👋 
+### Hi there 👋 , I am Zi Qin
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) -->
 
-### Glad to see you here! 
+I graduated as a CS(AI) Undergrad @ the [University Of Malaya](https://www.um.edu.my/) in Feb 2024; since then, I have worked as a software engineer @ [Grab](https://www.grab.com/my/). I built up my skills throughout my undergraduate years, interned at [Tapway](https://gotapway.com/), and won various public hackathons. I specialised in styling with CSS, deploying ML models directly on the edge, and rapid prototyping.
 
-### Intro
+### Tech
 
-1. Graduated as Bachelor Of Computer Science (Artificial Intelligence) @ University Of Malaya.
-2. Engineering @ Grab
-3. Incoming Master's @ <--->
-
-### Recent Focus
-
-1. Studying for the Certified Kubernetes Administrator (CKA) Test.
-2. Inventing developer tools.
-3. Leetcode.
-
-### Love to
-
-1. Streamline, orchestrate, and optimize processes
-2. Write maintainable code
-3. Learn
-
-### Bio
-
-<ul>
-<li> 🙄 I’m interested in software engineering, deep learning (CV/NLP), data pipelining and k8s </li>
-<li> 🏁 Currently merging Three JS and Golang into my hobby repository</li>
-<li> 😏 I’m looking to collaborate on fun and cool projects </li>
-<li> 📫 Start a conversation by emailing <a href="mailto:ziqinyeow@gmail.com">me</a> </li>
-</ul>
-<br>
+- Lang: Python, Typescript, Go, Bash, Javascript, Java
+- Frontend Framework: Next.js, React.js, Three.js,
+- State Management: Redux, Zustand
+- Styling: TailwindCSS, CSS
+- Backend Framework: FastAPI, Express.js
+- Database: MySQL, PostgreSQL, Redis, MongoDB, Cassandra (CQL)
+- Deep Learning: PyTorch, TensorFlow (TF, TFjs, TFLite), ONNX
+- Containerization: Kubernetes, Docker
+- Queue: RabbitMQ, MQTT, SQS
+- Cloud: AWS
 
 ### Development Time Last 7 Days
 <!--START_SECTION:waka-->
