@@ -1,9 +1,9 @@
-<img height="180rem" width="100%" src="https://github.com/ziqinyeow/ziqinyeow/blob/main/header.png?raw=true" />
+<!-- <img height="180rem" width="100%" src="https://github.com/ziqinyeow/ziqinyeow/blob/main/header.png?raw=true" /> -->
 
 ### Hi there 👋 , I am Zi Qin
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) -->
 
-I graduated as a CS(AI) Undergrad @ the [University Of Malaya](https://www.um.edu.my/) in Feb 2024; since then, I have worked as a software engineer @ [Grab](https://www.grab.com/my/). I built up my skills throughout my undergraduate years, interned at [Tapway](https://gotapway.com/), and won various public hackathons. I specialised in styling with CSS, deploying ML models directly on the edge, and rapid prototyping.
+I graduated as a CS(AI) Undergrad @ the [University Of Malaya](https://www.um.edu.my/) in Feb 2024; since then, I have worked as a Software Engineer @ [Grab](https://www.grab.com/my/). I built up my skills throughout my undergraduate years, interned at [Tapway](https://gotapway.com/), and won various public hackathons. I specialised in styling with CSS, deploying ML models directly on the edge, and rapid prototyping.
 
 ### Tech
 
