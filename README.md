@@ -18,7 +18,7 @@ I graduated as a CS(AI) Undergrad at the [University Of Malaya](https://www.um.e
 - Queue: RabbitMQ, MQTT, SQS
 - Cloud: AWS
 
-### Development Time Last 7 Days
+### Recent Focus - 7 Days
 <!--START_SECTION:waka-->
 
 ```txt
