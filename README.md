@@ -33,3 +33,5 @@ JSON              57 mins         █░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/ziqinyeow?ext=heatmap&theme=light,nord&width=1200&height=400)
