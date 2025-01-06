@@ -23,13 +23,13 @@ I graduated as a CS(AI) Undergrad at the [University Of Malaya](https://www.um.e
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 14 hrs 59 mins
+Total Time: 13 hrs 23 mins
 
-TypeScript        6 hrs 50 mins   ███████████▒░░░░░░░░░░░░░   45.29 %
-Go                4 hrs 58 mins   ████████▒░░░░░░░░░░░░░░░░   32.93 %
-Python            1 hr 41 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.18 %
-Markdown          23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
-JSON              22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+TypeScript        6 hrs 12 mins   ███████████▓░░░░░░░░░░░░░   46.38 %
+Go                4 hrs 58 mins   █████████▒░░░░░░░░░░░░░░░   37.09 %
+Python            1 hr 16 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 %
+Protocol Buffer   21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+JSON              16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
 ```
 
 <!--END_SECTION:waka-->
