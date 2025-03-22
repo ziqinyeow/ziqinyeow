@@ -19,7 +19,7 @@ I graduated as a CS(AI) Undergrad at the [University Of Malaya](https://www.um.e
 - Cloud: AWS
 - Automation: GitHub Actions
 
-### Recent Focus - 7 Days
+### Recent Focus
 <!--START_SECTION:waka-->
 
 ```txt
