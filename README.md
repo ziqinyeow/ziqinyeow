@@ -32,7 +32,7 @@ After a year of grinding (Feb 2024 - Apr 2025), I get promoted to Senior SWE at 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 August 2025 - To: 06 September 2025
+From: 08 August 2025 - To: 07 September 2025
 
 Total Time: 78 hrs 47 mins
 
