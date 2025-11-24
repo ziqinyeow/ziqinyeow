@@ -32,15 +32,15 @@ After a year of grinding (Feb 2024 - Apr 2025), I get promoted to Senior SWE at 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 October 2025 - To: 21 November 2025
+From: 23 October 2025 - To: 22 November 2025
 
-Total Time: 70 hrs 57 mins
+Total Time: 66 hrs 44 mins
 
-Go                38 hrs 33 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   54.05 %
-TypeScript        19 hrs 6 mins   ⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.79 %
-JSON              4 hrs 45 mins   ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.68 %
-Python            2 hrs 52 mins   ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.02 %
-SQL               2 hrs 3 mins    ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.88 %
+Go                36 hrs 6 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   53.78 %
+TypeScript        19 hrs 6 mins   ⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.47 %
+JSON              3 hrs 8 mins    ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.69 %
+Python            2 hrs 52 mins   ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.28 %
+SQL               2 hrs 3 mins    ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.06 %
 ```
 
 <!--END_SECTION:waka-->
